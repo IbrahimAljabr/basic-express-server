@@ -2,9 +2,9 @@
 
 Class401-Lab02
 
-[Heroku-deployment]();
+[Heroku-deployment](https://express-server-401.herokuapp.com/);
 
-[Pull Request]();
+[Pull Request](https://github.com/IbrahimAljabr/basic-express-server/pull/1);
 
 **UML Diagram**
 
